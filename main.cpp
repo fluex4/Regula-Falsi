@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include<stdbool.h>
 #include<cstdio>
+// rf
 void dispfor()
 {
     printf("\n  a*f(b)-b*f(a)");
